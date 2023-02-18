@@ -21,6 +21,8 @@ Finally, I used the COUNT() function to create a table that has the number of re
 # The Employees Eligible for the Mentorship Program
 I retrieved the emp_no, first_name, last_name, and birth_date columns from the Employees table. I also retrieved the from_date and to_date columns from the Department Employee table, and the title column from the Titles table.
 
+
+
 Using a DISTINCT ON statement, I retrieved the first occurrence of the employee number for each set of rows defined by the ON () clause. Then, I created a new table using the INTO clause.
 
 I joined the Employees and the Department Employee tables on the primary key, and also joined the Employees and the Titles tables on the primary key. I filtered the data on the to_date column to only include the current employees. Then, I further filtered the data on the birth_date columns to only include the employees whose birth dates were between January 1, 1965, and December 31, 1965.
@@ -33,3 +35,6 @@ Based on My analysis of Pewlett Hackard's employee data, we have determined that
 
 However, we have also discovered that there are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. We have identified only 1,549 employees who are eligible to participate in a mentorship program.
 
+# Coding:
+![Screen Shot 2023-02-18 at 6 09 06 PM](https://user-images.githubusercontent.com/111480084/219903646-ccaad651-ec14-4b61-8624-5d2f7f9ef1d8.jpg)
+![Screen Shot 2023-02-18 at 6 08 48 PM](https://user-images.githubusercontent.com/111480084/219903662-95f81cb1-c6d0-4ca3-ae4b-24c6539a64d2.jpg)
