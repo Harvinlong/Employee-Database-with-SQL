@@ -34,7 +34,3 @@ I joined the Employees and the Department Employee tables on the primary key, an
 Based on My analysis of Pewlett Hackard's employee data, we have determined that there will be a significant number of roles that need to be filled due to the upcoming "silver tsunami" of retirements. Specifically, we have found that 72,458 roles are in urgent need of filling when the workforce starts retiring.
 
 However, we have also discovered that there are not enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. We have identified only 1,549 employees who are eligible to participate in a mentorship program.
-
-# Coding:
-![Screen Shot 2023-02-18 at 6 09 06 PM](https://user-images.githubusercontent.com/111480084/219903646-ccaad651-ec14-4b61-8624-5d2f7f9ef1d8.jpg)
-![Screen Shot 2023-02-18 at 6 08 48 PM](https://user-images.githubusercontent.com/111480084/219903662-95f81cb1-c6d0-4ca3-ae4b-24c6539a64d2.jpg)
